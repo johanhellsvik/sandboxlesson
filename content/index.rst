@@ -1,5 +1,5 @@
-LESSON NAME
-===========
+SANDBOX LESSON
+==============
 
 Intro
 
